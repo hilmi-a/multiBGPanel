@@ -52,7 +52,7 @@ p {
 /* add hovering effect */
 .container > div:hover {
     opacity: 0.7;
-    transform: scale(0.98);
+    transform: scale(0.97);
 }
 
 /* make some grid to merge/span */
